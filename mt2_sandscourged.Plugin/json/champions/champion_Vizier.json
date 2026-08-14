@@ -165,15 +165,18 @@
         },
         {
             "id": "FirstBlessed1AccursedUprade",
-            "bonus_damage": 2
+            "bonus_damage": 2,
+            "upgrade_will_be_scaled_by_non_magic_power_trait": true
         },
         {
             "id": "FirstBlessed2AccursedUprade",
-            "bonus_damage": 3
+            "bonus_damage": 3,
+            "upgrade_will_be_scaled_by_non_magic_power_trait": true
         },
         {
             "id": "FirstBlessed3AccursedUprade",
-            "bonus_damage": 4
+            "bonus_damage": 4,
+            "upgrade_will_be_scaled_by_non_magic_power_trait": true
         },
         {
             "id": "upg_EvilEye1",
@@ -452,8 +455,6 @@
             "target_mode": "self",
             "param_upgrade": "@FirstBlessed1AccursedUprade",
             "param_bool": true,
-            "param_int": 0,
-            "param_int_2": 1,
             "param_int_3": 2
         },
         {
@@ -462,8 +463,6 @@
             "target_mode": "self",
             "param_upgrade": "@FirstBlessed2AccursedUprade",
             "param_bool": true,
-            "param_int": 0,
-            "param_int_2": 1,
             "param_int_3": 2
         },
         {
@@ -472,8 +471,6 @@
             "target_mode": "self",
             "param_upgrade": "@FirstBlessed3AccursedUprade",
             "param_bool": true,
-            "param_int": 0,
-            "param_int_2": 1,
             "param_int_3": 2
         },
         {
